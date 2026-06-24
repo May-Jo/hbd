@@ -1,0 +1,36 @@
+{
+  "greeting": "Hey",
+  "name": "Vini",
+  "greetingText": "I'm so glad to have met you in the most beautiful time of our lives",
+  "wishText": "May your beauty never fade, with flowers in your hair year after year. Wishing you happiness always.",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Wishing you a very happy birthday!!! Wishing you lots and lots of happiness...",
+  "sendButtonLabel": "Send",
+  "text2": "I wanted to give you a surprise",
+  "text3": "I spent a lot of time thinking about it",
+  "text4": "I realized, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "I hope you like this little surprise!",
+  "replayText": "If you like it, you can watch it again! Or...",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Outfit",
+      "path": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap"
+    }
+  ],
+  "galleryImages": ["img/lydia2.png"],
+  "galleryCaptions": ["My favorite memory with you"],
+  "candleCount": 21,
+  "letterContent": "Well, where to start, the countless ragebait tries or the late night yaps, nevertheless none of those are as interesting as the tea's we have shared.\n\nuhh, I diverged a bit again SO what I wanted to say is THANKKK YOUU SO MUCH FOR STAYING ALIVEEE\n\nyou mean a lot and lot and beyond to everyone you talk, dont let someone tell you otherwise",
+  "letterSignoff": "A VERY HAPPYY BIRTHDAY VINISHAA!!!\nMay god bless (me)"
+}
+
